@@ -16,6 +16,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/media/slavisa/Data/git_tutorial/work" />
+    <option name="cloneParentDir" value="$USER_HOME$" />
   </component>
 </application>
